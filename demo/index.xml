@@ -17,26 +17,22 @@
     <data>
         <ui-entry>
             <i>
-                <title>问题反馈</title>
+                <title>关于浏览器的知识合辑</title>
                 <href></href>
-                <subtitle></subtitle>
+                <subtitle>chrome,IE,firefox。。。还有哪些常用的浏览器？</subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a69gro0tTjd2w9xozR665jA73i-488.jpg</bg>
             </i>
+            
             <i>
-                <title>商务合作</title>
+                <title>数据分析看用户行为</title>
                 <href></href>
-                <subtitle></subtitle>
+                <subtitle>点击率，跳失率，转化率，如何分析数据掌握用户行为</subtitle>
                 <icon></icon>
-                <bg></bg>
+                <bg>http://i.oxm1.cc/uploads/git/wurui/img/2a69grmu0Tjd2w9yvsRehfmAqmv-533.jpg</bg>
             </i>
-            <i>
-                <title>关于我们</title>
-                <href></href>
-                <subtitle></subtitle>
-                <icon></icon>
-                <bg></bg>
-            </i>
+
+          
         </ui-entry>
     </data>
 </root>
